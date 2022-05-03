@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.title-container {
+    width: 920px;
+    background-color: rgb(0, 0, 0, 0.8);
+    margin: auto;
+    height: 100px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    color: #ffffff;
+    padding: 01px 0px 12px;
+    border-radius: 15px 15px 0px 0px;
+    font-family: Bold Italic;
+}
+
+.title-container div {
+    flex: 2;
+}
+
+.logo {
+    height: 100%;
+    width: 100px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: 50;
+    
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    margin-top: 24px;
+    background-color: aqua;
+    width: 920px;
+    background-color: rgb(0, 0, 0, 0.5);
+    margin: auto;
+    color: #ffffff;
+    
+    
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.text {
+    text-align: center;
+    margin-top: 24px;
+    text-decoration-color: brown;
+}
+
+#ram {
+    text-align: auto;
+    color: #ffffff;
+}
+.man {
+    width: 920px;
+    background-color: rgb(0, 0, 0, 0.5);
+    padding-top: 18px;
+    padding-bottom: 200px;
+    margin: auto;
+    font-weight: lighter;
+    padding: 50px 0px 110px 10px;
+    text-align: center;
+    
+}
+.man2 {
+    width: 920px;
+    background-color: rgb(0, 0, 0, 0.9);
+    padding-top: 18px;
+    padding-bottom: 5px;
+    margin: auto;
+    color: #ffffff;
+    padding: 10px 0px 10px 5px;
+    border-radius: 0px 0px 15px 15px;
+    font-family: normal Italic;
+    text-align: center;
+}
+/* tabele stylings */
